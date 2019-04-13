@@ -1,0 +1,23 @@
+{
+  "name": "typescriptbook",
+  "version": "1.0.0",
+  "description": "Type Script Learing Examples",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioRiambau/TypeScriptBook.git"
+  },
+  "keywords": [
+    "learning",
+    "typescript"
+  ],
+  "author": "Julio Riambau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JulioRiambau/TypeScriptBook/issues"
+  },
+  "homepage": "https://github.com/JulioRiambau/TypeScriptBook#readme"
+}
