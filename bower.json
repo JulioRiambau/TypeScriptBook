@@ -1,0 +1,22 @@
+{
+  "name": "typescriptbook",
+  "description": "Type Script Learing Examples",
+  "main": "gulpfile.js",
+  "authors": [
+    "Julio Riambau"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "learning",
+    "typescript"
+  ],
+  "homepage": "https://github.com/JulioRiambau/TypeScriptBook",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
